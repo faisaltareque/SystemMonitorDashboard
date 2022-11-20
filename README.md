@@ -1,4 +1,4 @@
-# Dockerized System Monitor using Grafana, Prmetheus
+# Dockerized System Monitor using Grafana, Prometheus
 
 Run
 ```bash
